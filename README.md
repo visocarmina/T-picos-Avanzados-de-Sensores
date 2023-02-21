@@ -1,2 +1,2 @@
-# T-picos-Avanzados-de-Sensores
+# Topicos-Avanzados-de-Sensores
 - `Caín Guadalupe Lozano Rodríguez`- `Fátima Carmina Villa Soto`- `Omar Villalobos Reveles`- 
